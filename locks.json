@@ -1,0 +1,13 @@
+{
+  "feed": false,
+  "events": false,
+  "materials": false,
+  "profile": false,
+  "attendance": false,
+  "fees": false,
+  "result": false,
+  "career-choice": false,
+  "achievements": false,
+  "timetable": false,
+  "quiz": true
+}
